@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpark6
 - 👀 I’m interested in msa, tdd, k8s, typescript, react, vue, svelte, flutter
-- 🌱 I’m currently learning aws
+- 🌱 I’m currently learning Algorithm / PS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
